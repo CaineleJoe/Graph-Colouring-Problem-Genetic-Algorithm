@@ -1,0 +1,1 @@
+There are two algorithms implemented: The GENETIC ALGORITHM and a heuristic, Simulated Annealing. The purpose of this project is to compare the efficiency of genetic algorthims against usual heuristic methods.
